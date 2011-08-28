@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="pick_photo_values">
+        <item>Prendre une photo</item>
+        <item>Choisir une photo</item>
+        <item>Avatar</item>
+        <item>Par défaut</item>
+    </string-array>
+    <string-array name="pick_incoming_call_photo_values">
+        <item>Prendre une photo</item>
+        <item>Choisir une photo</item>
+    </string-array>
+    <string-array name="edit_incoming_call_photo_values">
+        <item>Prendre une photo</item>
+        <item>Choisir une photo</item>
+        <item>Edition d\'une image</item>
+        <item>Supprimer</item>
+    </string-array>
+    <array name="callrecordview_menu_show_values">
+        <item>@string/callrecordview_menu_show_all</item>
+        <item>@string/callrecordview_menu_show_missed</item>
+        <item>@string/callrecordview_menu_show_called</item>
+        <item>@string/callrecordview_menu_show_accepted</item>
+        <item>@string/callrecordview_menu_show_stranger</item>
+    </array>
+    <string-array name="click_shortcut_entries">
+        <item>Call</item>
+        <item>View contact</item>
+        <item>Contact photo</item>
+    </string-array>
+    <string-array name="click_shortcut_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
