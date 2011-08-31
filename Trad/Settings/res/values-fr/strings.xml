@@ -1084,8 +1084,8 @@
     <string name="wifi_stop">Déconnexion Wi-Fi</string>
     <string name="more_info">Plus</string>
     <string name="current_version">Version: %s</string>
-    <string name="available_size">Espace dispo: %s</string>
-    <string name="total_size">%s (total)</string>
+    <string name="available_size">Dispo: %s</string>
+    <string name="total_size">Total: %s</string>
     <string name="device_overview_sd_shared">Carte SD non montée</string>
     <string name="device_model">Modèle:</string>
     <string name="device_version">Version d\'Android:</string>
@@ -1422,7 +1422,7 @@
     <string name="vibrate_in_normal_title">Vibrations normale</string>
     <string name="vibrate_items_title">Option de vibration</string>
     <string name="volume_category">Volume</string>
-    <string name="all_volume">Volume max.</string>
+    <string name="all_volume">Tous les volumes</string>
     <string name="silent_mode">Muet</string>
     <string name="all_volume_settings_hint">%s : Réglage du volume</string>
     <string name="notification_use_ring_volume_title">Volume d\'appels cohérent</string>
