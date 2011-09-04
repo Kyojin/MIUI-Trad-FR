@@ -66,7 +66,7 @@
     <string name="operation_rename_message">Entrez un nouveau nom</string>
     <string name="operation_selectall">Sélectionner tout</string>
     <string name="operation_send">Envoyer</string>
-    <string name="operation_show_sys">Afficher les fichiers système</string>
+    <string name="operation_show_sys">Afficher les fichiers cachés</string>
     <string name="operation_unfavorite">Retirer des favoris</string>
     <string name="removed_favorite">Supprimer des favoris</string>
     <string name="sd_card_available">Disponible:</string>
