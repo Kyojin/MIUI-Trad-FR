@@ -428,10 +428,9 @@
     <string name="confirm_remove_starred_message">Retirer %d contacts de vos favoris</string>
     <string name="confirm_remove_contacts_message">Supprimer les %d contacts sélectionnés</string>
     <string name="confirm_edit_group_message">La sélection va être supprimée</string>
-    <string name="dialer_update_prompt_title">Mise à jour</string>
-    <string name="dialer_update_prompt_message">Désormais lors de la sélection d\'un contact, celui-ci est appelé directement sans confirmation. Conserver cette configuration ?</string>
-    <string name="dialer_update_prompt_positive_btn">Oui - Appeler</string>
-    <string name="dialer_update_prompt_negative_btn">Non - Afficher</string>
+    <string name="dialer_item_click_guide_title">Cliquez sur un journal d\'appel, votre préférence est…</string>
+    <string name="dialer_item_click_guide_call">Appeler ce numéro</string>
+    <string name="dialer_item_click_guide_view_contacts">Voir ce contact</string>
     <string name="menu_preferences">Paramètres</string>
     <string name="preferences_title">Paramètres</string>
     <string name="pref_import_and_export_title">Import/Export</string>

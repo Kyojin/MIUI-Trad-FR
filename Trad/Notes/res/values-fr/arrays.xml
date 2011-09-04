@@ -6,16 +6,8 @@
         <item>--%s</item>
         <item>--%s</item>
     </string-array>
-    <string-array name="notelist_db_to_dist">
-        <item>Vers la carte SD</item>
-        <item>Par Email</item>
-    </string-array>
-    <string-array name="note_send_app">
+    <string-array name="menu_share_ways">
         <item>SMS</item>
         <item>Email</item>
-    </string-array>
-    <string-array name="notelist_array_default_folder">
-        <item>Date</item>
-        <item>Memo</item>
     </string-array>
 </resources>

@@ -364,4 +364,7 @@
     <string name="recent_contact_list_title">Récents</string>
     <string name="conversation_list_empty_text">Pas de message</string>
     <string name="non_english_subject_limit">Au plus 13 charactères pour les sujets non-Anglais</string>
+    <string name="text_in_popup_saved_to_clipboard">Le texte sélectionné du pop-up a été sauvegardé dans le presse-papiers</string>
+    <string name="guild_add_recipients">Cliquez ici pour ajouter des destinataires du carnet d\'adresses</string>
+    <string name="guild_add_attachments">Cliquez ici pour ajouter des pièces-jointes ou des smileys au message</string>
 </resources>

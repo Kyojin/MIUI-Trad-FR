@@ -34,4 +34,8 @@
     <string name="dismount_storage">Charger uniq.</string>
     <string name="move_data_to_sdcard_title">Déplacer les données sur la carte SD</string>
     <string name="move_data_to_sdcard_message">Les données multimédia telles que les photos, les vidéos et les captures d\'écran seront déplacées sur la carte SD pour alléger le système. Veillez à toujours laisser une carte SD insérée..</string>
+    <string name="user_guide_for_notification">Nouvelle notification reçue，vous pouvez tirer la barre de notification vers le bas pour voir les détails</string>
+    <string name="user_guide_for_toggle">La liste des contrôles peut être défilée horizontalement</string>
+    <string name="user_guide_for_toggle_list">Cliquez ici pour personnaliser la liste des contrôles</string>
+    <string name="user_guide_for_call">Pour revenir à l\'écran d\'appel, vous pouvez tirer la barre de notification vers le bas et cliquer sur la notification d\'appel</string>
 </resources>

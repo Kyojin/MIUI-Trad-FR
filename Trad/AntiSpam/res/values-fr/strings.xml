@@ -79,6 +79,7 @@
     <string name="fw_add_keyword">Ajouter aux mots-clés</string>
     <string name="fw_edit_keyword">Modifier les mots-clés</string>
     <string name="fw_clear_all_keyword">Supprimer les mots-clés</string>
+    <string name="fw_add_keyword_existing">Mot-clé: %s existe déja</string>
     <string name="member_firewall_log">Bloqué: Téléphone %d Information %d</string>
     <string name="clear_all_calllog">Vider le journal d\'appels</string>
     <string name="clear_all_mslog">Vider le journal SMS</string>

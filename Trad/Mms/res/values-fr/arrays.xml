@@ -4,7 +4,7 @@
         <item>:-D</item>
         <item>;-)</item>
         <item>%-)</item>
-        <item>&amp;amp;amp;amp;lt;_>¦¦¦</item>
+        <item>:-B</item>
         <item>∩_∩</item>
         <item>;-></item>
         <item>:-(</item>
@@ -23,16 +23,16 @@
         <item>°ο°/~</item>
         <item>:-@</item>
         <item>:-O</item>
-        <item>⊙⊙?</item>
-        <item>~o~/~</item>
-        <item>:-J</item>
-        <item>→_→</item>
-        <item>\@ο@</item>
-        <item>^人^</item>
-        <item>人^人</item>
-        <item>^_^)Y</item>
-        <item>ōk</item>
-        <item>-ิo-ิ</item>
+        <item>:-?</item>
+        <item>:-[</item>
+        <item>\'-|</item>
+        <item>:-1</item>
+        <item>:-2</item>
+        <item>:-z</item>
+        <item>:ok:</item>
+        <item>:pc:</item>
+        <item>:gl:</item>
+        <item>O_O</item>
     </string-array>
     <string-array name="extend_smiley_texts">
         <item>::>_&amp;amp;amp;amp;lt;::</item>
@@ -110,6 +110,32 @@
         <item>3</item>
         <item>5</item>
         <item>10</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Nom</item>
+        <item>Pseudo</item>
+        <item>Téléphone</item>
+        <item>E-mail</item>
+        <item>Société</item>
+        <item>M.I</item>
+        <item>SIP</item>
+        <item>Anniversaire</item>
+        <item>Site Web</item>
+        <item>Addresse</item>
+        <item>Note</item>
+    </string-array>
+    <string-array name="contact_values">
+        <item>vnd.android.cursor.item/name</item>
+        <item>vnd.android.cursor.item/nickname</item>
+        <item>vnd.android.cursor.item/phone_v2</item>
+        <item>vnd.android.cursor.item/email_v2</item>
+        <item>vnd.android.cursor.item/organization</item>
+        <item>vnd.android.cursor.item/im</item>
+        <item>vnd.android.cursor.item/sip_address</item>
+        <item>vnd.android.cursor.item/contact_event</item>
+        <item>vnd.android.cursor.item/website</item>
+        <item>vnd.android.cursor.item/postal-address_v2</item>
+        <item>vnd.android.cursor.item/note</item>
     </string-array>
     <string-array name="select_dialog_items">
         <item>1 seconde</item>

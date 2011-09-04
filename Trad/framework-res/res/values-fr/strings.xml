@@ -771,6 +771,7 @@ Sélectionnez OK pour continuer ou Annuler pour rester sur la page actuelle."</s
     <string name="alwaysUse">Utiliser cette application par défaut pour cette action</string>
     <string name="clearDefaultHintMsg">"Effacer les paramètres par défaut dans les Paramètres de page d'accueil > Applications > Gérer les applications."</string>
     <string name="chooseActivity">Sélectionner une action</string>
+    <string name="chooseUsbActivity">Sélectionner une application pour l\'appareil USB</string>
     <string name="noApplications">Aucune application ne peut effectuer cette action.</string>
     <string name="aerr_title">Désolé !</string>
     <string name="aerr_application" formatted="false">"Fermeture soudaine de l'application %1$s (du processus %2$s). Merci de réessayer."</string>
@@ -791,8 +792,10 @@ Sélectionnez OK pour continuer ou Annuler pour rester sur la page actuelle."</s
 Note: Certaines applications peuvent crasher si une permission leur est refusé.
 
 Cette boite de dialogue se fermera dans %5$s secondes et la permission sera refusée."</string>
+    <string name="deny_with_counting_down">Refuser(%1$d)</string>
     <string name="literal_or_with_leading_trailing_space">ou</string>
     <string name="literal_unknown">Inconnu</string>
+    <string name="remember_choice">Ne plus me demander</string>
     <string name="smv_application" formatted="false">"L'application %1$s (du processus %2$s) a transgressé sa propre déclaration de mode Strict."</string>
     <string name="smv_process">Le processus %1$s a transgressé sa propre déclaration de \"StrictMode\".</string>
     <string name="heavy_weight_notification">"%1$s est en cours d'utilisation"</string>
@@ -1333,8 +1336,5 @@ pour le compte %s"</string>
     <string name="resource_detail">"Plus d'informations"</string>
     <string name="keyguard_incorrect_pin_with_retry_count">Vous avez droit à %d essais</string>
     <string name="lockscreen_unlock_sim_via_puk">"Déverrouiller la carte SIM à l'aide du code PUK"</string>
-    <string name="ring_vibrate_mms_silent">Vibreur actif lors des appels et silencieux lors des notifications</string>
-    <string name="mms_vibrate_ring_silent">Vibreur actif pour les notifications et silencieux pour les appels</string>
-    <string name="ring_silent_mms_silent">Vibreur silencieux pour les appels et les notifications</string>
-    <string name="unable_sync_ntp_withou_connection">Impossible de synchroniser l\'heure actuellement car le réseau est indisponible, la synchronisation débutera quand le réseau sera disponible</string>
+    <string name="unable_sync_ntp_withou_connection">Impossible de synchroniser la date maintenant car pas de réseau, cela se fera lors de la disponibilité du réseau</string>
 </resources>
