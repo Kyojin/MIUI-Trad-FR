@@ -221,7 +221,7 @@
     <string name="no_effect">Aucun effet</string>
     <string name="custom">Personnaliser</string>
     <string name="equalizer_enable">Activer</string>
-    <string name="equalizer_disable">Désctiver</string>
+    <string name="equalizer_disable">Désactiver</string>
     <string name="equalizer_delete">Supprimer</string>
     <string name="equalizer_delete_success">Paramètre supprimé</string>
     <string name="equalizer_save_success">Égaliseur enregistré avec succès</string>
