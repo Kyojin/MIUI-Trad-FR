@@ -189,6 +189,7 @@
     <string name="networks">Sélection de l\'opérateur</string>
     <string name="date_and_time_settings_title">Date et heure</string>
     <string name="date_time_auto">Automatique</string>
+	<string name="date_time_auto_summary">Effectif seulement en cas de présence de connexion de données ou du Wi-Fi</string>
     <string name="date_time_24hour">Utiliser le format 24 h</string>
     <string name="date_time_set_time">Définir l\'heure</string>
     <string name="date_time_set_timezone">Définir le fuseau horaire</string>
@@ -196,6 +197,7 @@
     <string name="date_time_date_format">Choisir le format de date</string>
     <string name="zone_list_menu_sort_alphabetically">Trier par ordre alphabétique</string>
     <string name="zone_list_menu_sort_by_timezone">Trier par fuseau horaire</string>
+	<string name="display_format">Format d\'affichage</string>
     <string name="security_settings_title">Localisation et sécurité</string>
     <string name="location_security_settings_title">Paramètres de sécurité et localisation</string>
     <string name="security_passwords_title">Mots de passe</string>
@@ -840,9 +842,9 @@
     <string name="battery_stats_charging_label">Chargement</string>
     <string name="battery_stats_screen_on_label">L\'écran est allumé</string>
     <string name="battery_stats_gps_on_label">GPS activé</string>
-    <string name="battery_stats_wifi_running_label">Wi-Fi</string>
+    <string name="battery_stats_wifi_running_label">Wi-Fi activé</string>
     <string name="battery_stats_wake_lock_label">Réveil</string>
-    <string name="battery_stats_phone_signal_label">Force du signal</string>
+    <string name="battery_stats_phone_signal_label">Force du signal [noir:avion bleu:scannage]</string>
     <string name="awake">Durée de fonctionnement de l\'appareil</string>
     <string name="details_title">Détails d\'utilisation de la batterie</string>
     <string name="details_subtitle">Détails d\'utilisation</string>
