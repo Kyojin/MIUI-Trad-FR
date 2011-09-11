@@ -27,7 +27,7 @@
     <string name="cancel_running_download">Annuler</string>
     <string name="retry_download">Réessayer</string>
     <string name="deselect_all">Effacer la sélection</string>
-    <string name="pause_download_when_wifi_disconnected">Mettre le téléchargement en pause si le Wi-Fi est déconnecté</string>
+    <string name="pause_download_when_wifi_disconnected">Télécharger juste en Wi-Fi</string>
     <string name="download_when_network_connected">Télécharger avec n\'importe quelle connexion réseau</string>
     <string name="download_waiting_to_retry">Attendez et réessayez</string>
     <string name="download_waiting_for_network">Attente de connexion réseau</string>
@@ -54,7 +54,5 @@
     <string name="paused_unknown">Suspendu pour des raisons inconnues</string>
     <string name="confirm_delete_downloads_message">Supprimer les %d éléments sélectionnés ?</string>
     <string name="confirm_delete_the_download_item_message">Voulez vous vraiment supprimer l\'élément téléchargé?</string>
-    <string name="confirm_delete_the_running_tab_downloads">Tous les téléchargements en cours seront supprimés, continuer?</string>
-    <string name="confirm_delete_the_success_tab_downloads">Tous les éléments téléchargés seront supprimés, continuer?</string>
     <string name="delete_the_downloaded_file">Effacer les éléments téléchargés</string>
 </resources>

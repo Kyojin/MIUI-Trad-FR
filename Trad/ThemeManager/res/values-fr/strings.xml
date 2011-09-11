@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="app_name">Thèmes</string>
+	<string name="theme_activity_lable">Thèmes</string>
     <string name="theme_changing_dialog_title">Application du thème...</string>
-    <string name="theme_chinese_name">Thème: </string>
     <string name="theme_changed_message">Configuration réussie!</string>
     <string name="theme_changed_failed_message">Configuration échouée!</string>
     <string name="backup_preference_title">Sauvegarder les paramètres de thème actuel</string>
@@ -13,8 +13,11 @@
     <string name="theme_description_title_default">Par défaut</string>
     <string name="theme_description_title_customized">Personnaliser</string>
     <string name="component_category_title">Modifier thème</string>
-    <string name="theme_component_title_framework">Système</string>
-    <string name="theme_component_title_mms">MMS</string>
+    <string name="component_category_style_title">Styles</string>
+    <string name="component_category_wallpaper_title">Fonds d\'écrans</string>
+    <string name="component_category_ringtone_title">Sonneries</string>
+    <string name="theme_component_title_framework">Thèmes</string>
+    <string name="theme_component_title_mms">Messages</string>
     <string name="theme_component_title_wallpaper">Fond d\'écran</string>
     <string name="theme_component_title_lockwallpaper">Verrouillage</string>
     <string name="theme_component_title_icon">Icônes</string>

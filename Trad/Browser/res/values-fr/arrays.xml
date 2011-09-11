@@ -7,7 +7,7 @@
         <item>Exporter favoris</item>
     </string-array>
     <string-array name="not_found_page_titles">
-        <item>Page introuvable</item>
+        <item>Aucune page web trouvée</item>
     </string-array>
     <string-array name="pref_load_images_choice">
         <item>Activer</item>
@@ -30,7 +30,7 @@
         <item>SWITCH_TAB</item>
     </string-array>
     <string-array name="pref_volume_setting_enable_choice">
-        <item>Toujours appliquer le bouton de réglage du volume</item>
+        <item>Toujours appliquer le réglage du bouton de volume</item>
         <item>Appliquer seulement si aucune musique n\'est jouée</item>
     </string-array>
     <string-array name="pref_volume_setting_enable_choice_value">
@@ -38,9 +38,9 @@
         <item>ONLY_NO_MUSIC</item>
     </string-array>
     <string-array name="pref_reading_mode_choices">
-        <item>Entrer automatiquement en mode lecture</item>
-        <item>Entrer manuellement le mode de lecture</item>
-        <item>Fermer le mode de lecture</item>
+        <item>Entrer automatiquement</item>
+        <item>Entrer manuellement</item>
+        <item>Désactivé</item>
     </string-array>
     <string-array name="pref_reading_mode_values">
         <item>AUTO</item>
@@ -92,9 +92,9 @@
         <item>NEVER_SHOW</item>
     </string-array>
     <string-array name="pref_hide_statusbar_choices">
-        <item>Paramètres d\'affichage de la barre de notification</item>
-        <item>Masquer la barre de notification</item>
-        <item>Masquer automatiquement la barre de notification</item>
+        <item>Toujours afficher</item>
+        <item>Toujours masquer</item>
+        <item>Masquer automatiquement</item>
     </string-array>
     <string-array name="pref_hide_statusbar_values">
         <item>ALWAYS_SHOW</item>
@@ -165,12 +165,12 @@
     </string-array>
     <string-array name="pref_single_click_choices">
         <item>Ouvrir le lien dans l\'onglet actuel</item>
-        <item>Ouvrir un lien dans un nouvel onglet et le commutateur</item>
+        <item>Ouvrir un lien dans un nouvel onglet et y basculer</item>
         <item>Ouvrir un lien dans un nouvel onglet en arrière-plan</item>
     </string-array>
     <string-array name="pref_long_click_choices">
         <item>Afficher le menu contextuel</item>
-        <item>Ouvrir un lien dans un nouvel onglet et le commutateur</item>
+        <item>Ouvrir un lien dans un nouvel onglet et y basculer</item>
         <item>Ouvrir un lien dans un nouvel onglet en arrière-plan</item>
     </string-array>
     <string-array name="pref_link_choices_values">

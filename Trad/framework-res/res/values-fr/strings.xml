@@ -676,7 +676,7 @@
     <string name="lockscreen_sim_puk_locked_instructions">"Veuillez consulter le guide d'utilisation ou contacter l'assistance clientèle."</string>
     <string name="lockscreen_sim_locked_message">La carte SIM est verrouillée.</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">Déblocage de la carte SIM...</string>
-    <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Vous avez mal reproduit le schéma de déverrouillage %d fois. 
+    <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Vous avez mal reproduit le schéma de déverrouillage %d fois.
 
 Veuillez réessayer dans %d secondes."</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Vous avez mal saisi le schéma de déverrouillage %d fois. Au bout de %d tentatives supplémentaires, vous devrez débloquer votre téléphone à l'aide de votre identifiant Google.
@@ -1054,9 +1054,10 @@ pour le compte %s"</string>
     <string name="heavy_snow" />
     <string name="winter_solstice" />
     <string name="mobile_traffic_exceeded">Quota mensuel 3G dépassé de %s</string>
-    <string name="mobile_traffic_exceeded_threshold">Internet mobile ce mois-ci, supérieur de %s</string>
-    <string name="mobile_traffic_exceeded_limit">Internet mobile ce mois-ci, plus de %s</string>
-    <string name="monitor_traffic_title">Surveillance des appels téléphoniques</string>
+    <string name="mobile_traffic_exceeded_threshold">Le traffic Internet mobile approche de la limite par %s</string>
+    <string name="mobile_traffic_exceeded_limit">Traffic Internet mobile dépassé de %s</string>
+	<string name="mobile_traffic_exceeded_limit_and_closed">Traffic Internet mobile dépassé de %s, le réseau mobile a été suspendu</string>
+    <string name="monitor_traffic_title">Surveillance du traffic</string>
     <string name="mobile_exceeded">Consommation 3G depassée de %s</string>
     <string name="country_name_bs">Bahamas</string>
     <string name="country_name_bb">La Barbade</string>
@@ -1297,30 +1298,31 @@ pour le compte %s"</string>
     <string name="scene_a2dp">Casque Bluetooth</string>
     <string name="scene_sco">Casque Bluetooth</string>
     <string name="resourcebrowser_lable">Parcourir les ressources</string>
-    <string name="theme_sdcard_missed_dialog_title">La carte SD est inaccessible</string>
-    <string name="theme_sdcard_missed_dialog_message">"Assurez-vous que la carte SD est insérée et que le téléphone n'est pas en mode de transfert de données."</string>
-    <string name="theme_unknow_author">Inconnu</string>
-    <string name="theme_translate_paper_title">Traduction du thème</string>
-    <string name="theme_description_missed">Aucun</string>
-    <string name="theme_description_picker_default">Sonnerie par défaut</string>
-    <string name="theme_description_ringtone_title_default">Sonnerie système</string>
-    <string name="theme_description_notification_title_default">Sonnerie de notification système</string>
-    <string name="theme_description_alarm_title_default">Alarme système</string>
-    <string name="theme_description_title_mute">Muet</string>
-    <string name="theme_description_designer">Concepteur:</string>
-    <string name="theme_description_author">Auteur:</string>
-    <string name="theme_description_size">Taille:</string>
-    <string name="theme_description_addtime">Date:</string>
-    <string name="theme_description_download">Téléchargements:</string>
-    <string name="theme_description_version">Version:</string>
-    <string name="theme_local">%1$s local</string>
-    <string name="theme_online">%1$s en ligne</string>
-    <string name="online_title">En ligne</string>
-    <string name="online_resource_download">Télécharger</string>
-    <string name="online_resource_downloading">Téléchargement</string>
-    <string name="online_resource_apply">Appliquer</string>
-    <string name="online_resource_update">Mettre à jour</string>
-    <string name="online_resource_select">Sélectionner</string>
+    <string name="sdcard_status_changed_dialog_title">L\'état de la carte SD a changé</string>
+    <string name="sdcard_status_changed_dialog_message">L\'application est sur le point de fermer.\nVeuillez réouvrir cette application pour actualiser les ressources.</string>
+    <string name="resource_transparent_wallpaper">Transparent</string>
+	<string name="resource_mute">Muet</string>
+    <string name="resource_default">Sonnerie par défaut</string>
+    <string name="resource_ringtone_default">Sonneries</string>
+    <string name="resource_notification_default">Notifications</string>
+    <string name="resource_alarm_default">Alarme</string>
+    <string name="description_unknown">Inconnu</string>
+    <string name="description_missed">Aucune</string>
+    <string name="description_designer">Concepteur:</string>
+    <string name="description_author">Auteur:</string>
+    <string name="description_size">Taille:</string>
+    <string name="description_modifiedtime">Modifié:</string>
+    <string name="description_download">Téléchargement:</string>
+    <string name="description_version">Version:</string>
+    <string name="description_file">Fichier:</string>
+    <string name="resource_local">%1$s local</string>
+    <string name="resource_online">%1$s en ligne</string>
+    <string name="resource_title">En ligne</string>
+    <string name="resource_download">Télécharger</string>
+    <string name="resource_downloading">Téléchargement</string>
+    <string name="resource_apply">Appliquer</string>
+    <string name="resource_update">Mettre à jour</string>
+    <string name="resource_select">Sélectionner</string>
     <string name="online_hotest">Populaires</string>
     <string name="online_latest">Récents</string>
     <string name="online_hotest_short">Populaires</string>

@@ -56,4 +56,6 @@
     <string name="weather_fetch_failure">La météo n\'est pas disponible pour le moment.</string>
     <string name="menu_item_dock_settings">Paramètres station d\'accueil</string>
     <string name="alarm_klaxon_service_desc">Service de lecture du son pour les alarmes</string>
+    <string name="default_alarm_alert">Alarme par défaut</string>
+    <string name="correct_time_msg">Cliquez ici pour définir la date et heure locales !</string>
 </resources>

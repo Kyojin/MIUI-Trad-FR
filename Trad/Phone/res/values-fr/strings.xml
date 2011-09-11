@@ -65,12 +65,12 @@
     <string name="additional_cdma_call_settings">Autres paramètres d\'appel CDMA</string>
     <string name="sum_cdma_call_settings">Autres paramètres d\'appel \"CDMA uniquement\"</string>
     <string name="labelCallerId">Numéro de l\'appelant</string>
+    <string name="sum_caller_id">Cacher/montrer mon numéro pour les appels sortants (si le réseau le supporte)</string>
     <string name="sum_hide_caller_id">Numéro masqué pour les appels sortants</string>
     <string name="sum_show_caller_id">Numéro affiché pour les appels sortants</string>
     <string name="sum_default_caller_id">Utiliser les paramètres opérateur pour afficher mon n° pour les appels sortants</string>
     <string name="labelCW">Appel en attente</string>
-    <string name="sum_cw_enabled">Me signaler les appels entrants lorsque je suis en communication</string>
-    <string name="sum_cw_disabled">Me signaler les appels entrants lorsque je suis en communication</string>
+    <string name="sum_call_waiting">Me signaler les appels entrants lorsque je suis en communication</string>
     <string name="call_forwarding_settings">Paramètres de transfert d\'appel</string>
     <string name="labelCF">Transfert d\'appel</string>
     <string name="labelCFU">Toujours transférer</string>
@@ -90,7 +90,6 @@
     <string name="sum_cfnrc_enabled">Transfert vers le {0}</string>
     <string name="sum_cfnrc_disabled">Désactivé</string>
     <string name="disable_cfnrc_forbidden">Votre opérateur ne prend pas en charge la désactivation du transfert d\'appel lorsque votre téléphone n\'est pas joignable.</string>
-    <string name="updating_title">Paramètres d\'appel</string>
     <string name="error_updating_title">Erreur des paramètres d\'appel</string>
     <string name="reading_settings">Lecture des paramètres...</string>
     <string name="updating_settings">Mise à jour des paramètres...</string>
@@ -222,9 +221,8 @@
     <string name="fdn">Numéros autorisés</string>
     <string name="manage_fdn_list">Liste de numéros autorisés</string>
     <string name="fdn_enabled">La liste de numéros autorisés est activée.</string>
+    <string name="fdn_enabled_summary">Les options ci-dessus sont toutes désactivées quand la liste des numéros autorisés est activée</string>
     <string name="fdn_disabled">Liste de numéros autorisés désactivée</string>
-    <string name="enable_fdn">Activer numéros autorisés</string>
-    <string name="disable_fdn">Désactiver numéros autorisés</string>
     <string name="change_pin2">Modifier le code PIN2</string>
     <string name="enable_fdn_ok">Désactiver numéros autorisés</string>
     <string name="disable_fdn_ok">Activer</string>
@@ -249,7 +247,7 @@
     <string name="deleting_fdn_contact">Suppression du numéro autorisé…</string>
     <string name="fdn_contact_deleted">Numéro autorisé supprimé</string>
     <string name="pin2_invalid">Impossible de mettre à jour le numéro autorisé : le code PIN que vous avez saisi est incorrect.</string>
-    <string name="fdn_invalid_number">Impossible de mettre à jour le numéro autorisé : ce type de numéro ne peut pas comporter plus de 20 chiffres.</string>
+    <string name="fdn_invalid_number">Impossible de mettre à jour le numéro autorisé : ce type de numéro ne peut pas comporter plus de 20 chiffres, et peut seulement contenir des chiffres ou \'+\'.</string>
     <string name="simContacts_emptyLoading">Lecture de la carte SIM…</string>
     <string name="simContacts_empty">Aucun contact n\'a été trouvé sur votre carte SIM.</string>
     <string name="simContacts_title">Sélection des contacts à importer</string>
@@ -451,6 +449,7 @@
     <string name="phone_call_pref_title">Appels téléphoniques</string>
     <string name="turnover_mute_title">Silence par retournement</string>
     <string name="handon_ringer_title">Fondu</string>
+    <string name="handon_ringer_summary">Inutile quand seule la vibration est activée pour les appels entrants</string>
     <string name="allow_3rd_app_listen_phone_event_title">Appli tél. tierce</string>
     <string name="allow_3rd_app_listen_phone_event_summary">Autoriser les applications Téléphone tiers</string>
     <string name="show_quick_contact_badge_title">Avatars</string>
@@ -466,7 +465,6 @@
     <string name="predefined_hangup_sms_body">Je ne suis pas disponible, je vous contacterais ultérieurement.</string>
     <string name="pref_dialer_list_title">Liste de composition abrégée</string>
     <string name="pref_outgoing_call_title">Appel sortant</string>
-    <string name="pref_phone_security_title">Sécurité</string>
     <string name="pref_more_settings_title">Paramètres supplémentaires</string>
     <string name="auto_answer_pref_title">Réponse automatique</string>
     <string name="auto_answer_pref_dialog_title">Délai de réponse automatique</string>
@@ -511,6 +509,7 @@
     <string name="icc_related_setting_title">Statut des appels entrants et frais</string>
     <string name="icc_related_setting_summary">Renvoi d\'appel, mise en attente, FDN autres paramètres reliés au réseau</string>
     <string name="incoming_call_guide">Glisser vers le haut pour les paramètres de réponse</string>
+    <string name="lable_call_privileged">Appel sortant</string>
     <string name="goPrivate">mode privé</string>
     <string name="selectContact">sélectionner un contact</string>
     <string name="sip_settings">Paramètres d\'appel Internet</string>

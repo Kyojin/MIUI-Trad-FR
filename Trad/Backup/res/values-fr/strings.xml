@@ -23,6 +23,7 @@
     <string name="delete_backup">Suppression de la sauvegarde</string>
     <string name="delete_backup_confirm">La sélection sera supprimée, confirmer?</string>
     <string name="delete_backup_process">Suppression de la sélection, veuillez patienter</string>
+    <string name="backup_error">Échec de sauvegarde</string>
     <string name="delete_failed_backup_process">Échec de la suppression de la sélection</string>
     <string name="batch_delete_backup_confirm">La sélection sera supprimée, confirmer?</string>
     <string name="start_restore">Restaurer</string>
@@ -35,7 +36,7 @@
     <string name="restore_contacts_hit">(Note: vous devez recréer le compte d\'origine manuellement avant de restaurer les contacts)</string>
     <string name="restore_telephony_hit">(Note: Le processus de restauration doit redémarrer l\'application téléphone)</string>
     <string name="restore_launcher_layout_hit">(Restaure les emplacements des icones du bureau, mais pas les widgets)</string>
-    <string name="settings_summary">(Réglages de base et paramètres des messages téléphoniques)</string>
+    <string name="settings_summary">Sauvegarder les paramètres d\'appels et de messages</string>
     <string name="cloud_app_name">Sauvegarde en ligne</string>
     <string name="cloud_home_title">Sauvegarde en ligne</string>
     <string name="prompt_reading">Lecture...</string>
@@ -57,9 +58,12 @@
     <string name="cloud_backup_hint">Connectez-vous pour sauvegarder vos données en toute sécurité</string>
     <string name="cloud_backup_window_title">Sauvegarde en ligne</string>
     <string name="cloud_restore_window_title">Restauration en ligne</string>
+    <string name="cloud_restore_title">Restaurer données de sauvegarde</string>
     <string name="local_backup_window_title">Sauvegarde locale</string>
     <string name="local_restore_window_title">Récupération de données locales</string>
     <string name="account_login">Connexion au compte</string>
+    <string name="miliao_account_login">Connexion à MiTalk</string>
+    <string name="miliao_account_guide">Le compte MiTalk est maintenant un compte Xiaomi\n Profitez de tous les services Xiaomi en-ligne</string>
     <string name="auto_backup">Sauvegarde automatique</string>
     <string name="contact_title">Contacts</string>
     <string name="call_title">Journal des appels</string>
@@ -69,17 +73,6 @@
     <string name="compute_backup_info">Récupération des informations de sauvegarde</string>
     <string name="compute_delete_contact_info">Supprimer informations de contact</string>
     <string name="unknown_hint">Inconnu</string>
-    <string name="unknown_name">Sans nom</string>
-    <string name="store_named">Nom du fichier pour la carte SIM</string>
-    <string name="named_hint1">Détecter la sauvegarde de la carte SIM</string>
-    <string name="named_hint2">Chaque carte SIM est une sauvegarde des SMS et djournal des appels</string>
-    <string name="named_hint3">Utilisez le numéro de téléphone afin d\'identifier les diiférents nom du fichier</string>
-    <string name="named_last_sim">Carte SIM utilisée dans le nom de la sauvegarde</string>
-    <string name="named_current_sim">Carte SIM utilisée dans le nom de la sauvegarde</string>
-    <string name="named_current_sim2">Nom de la carte SIM actuelle</string>
-    <string name="named_sim_hint">Entrez le numéro de téléphone de la carte SIM correspondante</string>
-    <string name="named_hint6">Les données seront sauvegardées pour utiliser la carte SIM dans cette archive</string>
-    <string name="named_alert">Entrez le nom de l\'archive de la carte SIM</string>
     <string name="task_progress">Tâche en cours</string>
     <string name="task_pending">En attente</string>
     <string name="task_pre_running">Pré-traitement</string>
@@ -160,4 +153,6 @@
     <string name="reverse_all">Tout effacer</string>
     <string name="refresh">Rafraîchir</string>
     <string name="cloud_item_info_summary">(Local %1$s | En ligne %2$s)</string>
+    <string name="total_num">%d enregistrement(s) au total</string>
+    <string name="cloud_restore_guide">Cliquez sur Commencer la restauration pour restaurer les données\n Vous pouvez aussi restaurer %s dans Sauvegarde</string>
 </resources>

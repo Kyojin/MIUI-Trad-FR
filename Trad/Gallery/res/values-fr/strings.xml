@@ -79,11 +79,11 @@
     <string name="save_to_sdcard">Enregistrer sur la Carte SD</string>
     <string name="damaged_file">Le fichier est corrompu</string>
     <string name="camera_folder_display_name">Photo</string>
-    <string name="miui_capture_screen_folder_display_name">Screenshots MIUI</string>
-    <string name="internal_camera_folder_display_name">Internal Camera Photos</string>
+    <string name="miui_capture_screen_folder_display_name">Captures d\'écran</string>
+    <string name="internal_camera_folder_display_name">Appareil Photo</string>
     <string name="internal_miui_capture_screen_folder_display_name">Internal Screenshots</string>
-    <string name="miliao_folder_display_name">MiChat</string>
-    <string name="miliao_painting_folder_display_name">MiChat Painting</string>
+    <string name="miliao_folder_display_name">MiTalk</string>
+    <string name="miliao_painting_folder_display_name">Photos MiTalk</string>
     <string name="must_pick_file">Vous devez d\'abord sélectionner une image</string>
     <string name="play_video">Lire</string>
     <string name="set_lock_or_wallpaper">Définir comme fond d\'écran</string>
@@ -157,4 +157,5 @@
     <string name="select_photo">Sélectionnez une photo</string>
     <string name="select_frame">Sélectionnez une image</string>
     <string name="photo_confirm">Valider</string>
+    <string name="photo_load_failed">Échec de chargement de l\'image !</string>
 </resources>

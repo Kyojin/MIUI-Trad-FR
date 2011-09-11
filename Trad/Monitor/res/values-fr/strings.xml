@@ -68,6 +68,8 @@
     <string name="app_detail">Détails du programme</string>
     <string name="traffic_sms_detials">Détails des Messages</string>
     <string name="no_sms">Journal de message vide.</string>
-    <string name="loading_apps_list">Chargement de la liste des programmes, patientez SVP...</string>
+    <string name="loading_apps_list">Chargement de la liste des programmes...</string>
     <string name="loading_apps_list_failed">Échec lors du chargement de la liste des programmes</string>
+    <string name="apply_rules_failed_known">Inconnu</string>
+    <string name="apply_rules_failed">Échec lors de l\'application des règles du pare-feu, veuillez réessayer</string>
 </resources>

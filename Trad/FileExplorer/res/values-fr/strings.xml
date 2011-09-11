@@ -42,7 +42,6 @@
     <string name="no_file">Aucun document</string>
     <string name="no_wifi">Pas de réseau WiFi</string>
     <string name="notif_server_starting">Gestion à distance démarrée</string>
-    <string name="notif_text">Le serveur FTP est en attente de connexions.</string>
     <string name="notif_title">Serveur FTP en cours d\'exécution</string>
     <string name="operation_cancel">Annuler</string>
     <string name="operation_cancel_selectall">Tout désélectionner</string>

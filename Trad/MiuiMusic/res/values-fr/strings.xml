@@ -120,7 +120,7 @@
     <string name="download_album_summary">Utiliser des pochettes d\'album utilise du trafic réseau et peut entraîner des coûts élevés.</string>
     <string name="listen_to_online_summary">Utilise du trafic réseau et peut entraîner des coûts élevés</string>
     <string name="flow_save_hint_summary">Confirmer l\'opération par une fenêtre pop-up à chaque fois</string>
-    <string name="android_album_summary">L\'extraction automatique des pochettes peut entraîner des erreurs et fermer le programme</string>
+    <string name="android_album_summary">Utiliser automatiquement les pochettes contenues dans les pistes</string>
     <string name="play_and_download_summary">Écouter les chansons en ligne et les télécharger</string>
     <string name="spectrogram_display_summary">Masquer le spectre peut améliorer les performances</string>
     <string name="screen_bright_wake_summary">Écran allumé pendant la lecture</string>
@@ -129,7 +129,7 @@
     <string name="shake_sensitivity_helper">Sensibilité élevée à gauche, faible à droite</string>
     <string name="keep_quit_location_summary">Mémorisation de la position de sortie</string>
     <string name="fade_effect_summary">Le passage à la chanson suivante se fera en fondu.</string>
-    <string name="stop_when_wifi_disconnect">Si vous voulez écouter des chansons en ligne en utilisant le réseau 3G, vous pouvez modifier les paramètres.</string>
+    <string name="stop_when_wifi_disconnect">Connexion au Wi-Fi perdue, la musique en ligne a été arrêtée. Si vous voulez écouter des chansons en ligne en utilisant le réseau 3G, vous pouvez modifier les paramètres.</string>
     <string name="continue_when_wifi_disconnect">Continuer même en réseau 3G</string>
     <string name="donot_ask_me_agaion">Ne plus demander</string>
     <string name="upgrade_title">Mise à jour logiciel</string>

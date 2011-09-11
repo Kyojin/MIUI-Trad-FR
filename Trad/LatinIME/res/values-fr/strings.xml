@@ -18,6 +18,8 @@
     <string name="english_ime_settings">Paramètres du clavier Android</string>
     <string name="english_ime_input_options">Options de saisie</string>
     <string name="vibrate_on_keypress">Vibrer à chaque touche</string>
+    <string name="obey_haptic_feedback">Respecter retour haptique</string>
+    <string name="obey_haptic_feedback_summary">Ne pas vibrer si le retour haptique est désactivé dans les paramètres système</string>
     <string name="sound_on_keypress">Son à chaque touche</string>
     <string name="popup_on_keypress">Agrandir les caractères</string>
     <string name="hit_correction">Corriger les fautes de frappe</string>
@@ -36,6 +38,8 @@
     <string name="auto_cap_summary">Mettre en majuscule la première lettre de chaque phrase</string>
     <string name="auto_punctuate">Ponctuation automatique</string>
     <string name="auto_punctuate_summary" />
+    <string name="long_press_delay">Délai de longue pression</string>
+    <string name="long_press_delay_summary">%d millisecondes</string>
     <string name="quick_fixes">Corrections rapides</string>
     <string name="quick_fixes_summary">Corrige les fautes de frappe courantes</string>
     <string name="show_suggestions">Afficher les suggestions</string>
@@ -111,6 +115,11 @@
     <string name="prefs_enable_recorrection">Appuyer pour corriger les suggestions</string>
     <string name="prefs_enable_recorrection_summary">Appuyer sur les mots saisis pour les corriger</string>
     <string name="keyboard_layout">Thème du clavier</string>
+    <string name="layout_basic">Basique</string>
+    <string name="layout_high_contrast">Basique (Haut Contraste)</string>
+    <string name="layout_stone_bold">Pierre (gras)</string>
+    <string name="layout_stone_normal">Pierre (normal)</string>
+    <string name="layout_gingerbread">Gingerbread</string>
     <string name="subtype_mode_keyboard">clavier</string>
     <string name="subtype_mode_voice">voix</string>
 </resources>

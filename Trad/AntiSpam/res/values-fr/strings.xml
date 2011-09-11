@@ -64,6 +64,8 @@
     <string name="fw_restore_ms">Retour aux SMS</string>
     <string name="fw_ms">SMS bloqués: %s (%d)</string>
     <string name="fw_call">Appels bloqués: %s (%d)</string>
+	<string name="fw_import_blacklist">Importer liste noire</string>
+    <string name="fw_import_whitelist">Importer liste blanche</string>
     <string name="fw_blacklist_hint">Les appels et messages seront automatiquement bloqués lors de l\'ajout à la liste noire</string>
     <string name="fw_whitelist_hint">Les membres de la liste blanche ne seront pas bloqués</string>
     <string name="fw_no_effect">Aucune action ne sera faite</string>

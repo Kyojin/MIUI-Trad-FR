@@ -49,4 +49,9 @@
     <string name="enable_authority_message">Gestion des droits activés.</string>
     <string name="confirm_disable_authority">Fermer la gestion des droits, empêchera de contrôler les logiciels malveillante. Etes-vous sûr de vouloir fermer la gestion des droits ?</string>
     <string name="ask_for_root_permission_message">%s demande les permissions root, cette opération peut être dangereuse. Voulez-vous autoriser cette opération ?</string>
+    <string name="menu_setting">Paramètres</string>
+    <string name="pref_root_permission_title">Permission Root</string>
+    <string name="pref_root_permission_summary">Autorise les application à demander la permission Root</string>
+    <string name="ask_for_root_permission_toast">%s essaye de demander la permission Root qui est désactivée par défaut pour assurer la sécurité du système. Si vous avez besoin de l\'activer, rendez-vous dans les paramètres du Super-utilisateur.</string>
+    <string name="open_root_permission_message">Activer cette option permettra aux applications de demander les permissions Root.\nNote: Certaines applications ayant la permission peuvent causer l\'instabilité du système, la perte des données personnelles, des dommages du système ou du matériel, soyez prudent. Êtes-vous sûr de l\'activer ?</string>
 </resources>
