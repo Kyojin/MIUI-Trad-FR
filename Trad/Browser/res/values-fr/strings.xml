@@ -50,7 +50,7 @@
     <string name="bookmark_add_folder">Nouveau dossier</string>
     <string name="bookmark_folder_exist">Ce dossier existe déjà !</string>
     <string name="added_bookmark_folder">Votre favori a été créé !</string>
-    <string name="open_link_background">Ouvrir ce lien en arrière-plan.</string>
+    <string name="open_link_background">Lien ouvert en arrière-plan.</string>
     <string name="reading_title">Lire :</string>
     <string name="bookmark_header_title">Opération</string>
     <string name="bookmark_delete">Supprimer</string>
@@ -120,7 +120,7 @@
     <string name="pre_set_full_screen">Contrôle du mode plein écran</string>
     <string name="pre_set_date_management">Données du navigateur</string>
     <string name="forum_post_empty">Le contenu ne peut être vide</string>
-    <string name="download_action_start">Commencer le téléchargement</string>
+    <string name="download_action_start">Téléchargement commencé</string>
     <string name="menu_settings">Paramètres</string>
     <string name="menu_select_text">Sélectionner le texte</string>
     <string name="toast_select_text">Sélectionnez le texte à copier</string>
@@ -154,7 +154,7 @@
     <string name="contextmenu_add_contact">Ajouter Contact</string>
     <string name="contextmenu_send_mail">E-mail</string>
     <string name="contextmenu_map">Tracer la carte</string>
-    <string name="contextmenu_share_image">Partagez vos photos</string>
+    <string name="contextmenu_share_image">Partager</string>
     <string name="choosertitle_sharevia">Partager via</string>
     <string name="progress_dialog_setting_wallpaper">Réglage du fond d\'écran...</string>
     <string name="choose_upload">Choisir un fichier à uploader</string>
@@ -235,7 +235,7 @@
     <string name="pref_default_text_encoding_dialogtitle">Encodage</string>
     <string name="pref_default_zoom">Paramètres du zoom</string>
     <string name="pref_default_zoom_dialogtitle">Paramètres du zoom de la page</string>
-    <string name="pref_user_agent">User Agent</string>
+    <string name="pref_user_agent">User agent</string>
     <string name="pre_auto_clean_cache_title">Vider le cache en quittant</string>
     <string name="pre_auto_clean_cache_summary">Vider automatiquement le cache à la sortie du navigateur.</string>
     <string name="exit_confirmation">Ne plus demander</string>

@@ -104,7 +104,7 @@
     <string-array name="pref_simple_mode_choices">
         <item>Désactiver</item>
         <item>Activer</item>
-        <item>Activer avec une connexion non Wi-Fi</item>
+        <item>Connexion non Wi-Fi uniq.</item>
     </string-array>
     <string-array name="pref_simple_mode_values">
         <item>OFF</item>

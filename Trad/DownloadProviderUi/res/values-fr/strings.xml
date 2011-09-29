@@ -55,4 +55,5 @@
     <string name="confirm_delete_downloads_message">Supprimer les %d éléments sélectionnés ?</string>
     <string name="confirm_delete_the_download_item_message">Voulez vous vraiment supprimer l\'élément téléchargé?</string>
     <string name="delete_the_downloaded_file">Effacer les éléments téléchargés</string>
+    <string name="downloads_operating">En cours...</string>
 </resources>

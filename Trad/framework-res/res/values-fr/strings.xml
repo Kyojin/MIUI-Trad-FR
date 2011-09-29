@@ -665,8 +665,8 @@
     <string name="lockscreen_plugged_in">Chargement en cours... (%d %%)</string>
     <string name="lockscreen_charged">Chargé</string>
     <string name="lockscreen_battery_short">%d %%</string>
-    <string name="lockscreen_low_battery">"Batterie Faible. 
- Branchez votre chargeur (%d%%)"</string>
+    <string name="lockscreen_low_battery">"Batterie Faible (%d%%). 
+ Branchez votre chargeur !"</string>
     <string name="lockscreen_missing_sim_message_short">"Aucune carte SIM n'a été trouvée."</string>
     <string name="lockscreen_missing_sim_message">"Aucune carte SIM n'est insérée dans le téléphone."</string>
     <string name="lockscreen_missing_sim_instructions">Insérez une carte SIM.</string>
@@ -984,7 +984,7 @@ pour le compte %s"</string>
     <string name="payphone">Téléphone public</string>
     <string name="callNoAnswerTimeFormat">%s sonnerie(s)</string>
     <string name="callDetailsDurationFormat" formatted="false">%1$s minutes %2$s secondes</string>
-    <string name="firewall_setting">"Filtrage d'appels et SMS"</string>
+    <string name="firewall_setting">Anti-spam</string>
     <string name="date_day">Date</string>
     <string name="lunar_calendar">Calendrier lunaire</string>
     <string name="lunar_zheng" />
@@ -1323,9 +1323,9 @@ pour le compte %s"</string>
     <string name="resource_apply">Appliquer</string>
     <string name="resource_update">Mettre à jour</string>
     <string name="resource_select">Sélectionner</string>
-    <string name="online_hotest">Populaires</string>
+    <string name="online_hottest">Populaires</string>
     <string name="online_latest">Récents</string>
-    <string name="online_hotest_short">Populaires</string>
+    <string name="online_hottest_short">Populaires</string>
     <string name="online_latest_short">Récents</string>
     <string name="online_no_network">Pas de connexion réseau</string>
     <string name="loading">Chargement</string>

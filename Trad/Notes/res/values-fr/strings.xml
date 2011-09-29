@@ -70,10 +70,10 @@
     <string name="error_sync_cancelled">Synchronisation annulée</string>
     <string name="sync_progress_login">Connexion à %1$s...</string>
     <string name="sync_progress_init_list">Récuperation de la liste...</string>
-    <string name="sync_progress_syncing">Synchroniser les notes avec Google Task...</string>
+    <string name="sync_progress_syncing">Synchroniser les notes avec Google Tasks...</string>
     <string name="preferences_title">Paramètres</string>
     <string name="preferences_account_title">Paramètre du compte</string>
-    <string name="preferences_account_summary">Synchroniser les notes avec google task</string>
+    <string name="preferences_account_summary">Synchroniser les notes avec Google Tasks</string>
     <string name="preferences_last_sync_time">Dernière synchronisation %1$s</string>
     <string name="preferences_last_sync_time_format">dd-MM-yyyy hh:mm:ss</string>
     <string name="preferences_add_account">Ajouter un compte</string>
@@ -85,7 +85,7 @@
     <string name="preferences_dialog_change_account_title">Compte courant %1$s</string>
     <string name="preferences_dialog_change_account_warn_msg">Toutes les informations de synchronisation seront supprimés, ce qui peut entraîner des éléments dupliqués</string>
     <string name="preferences_dialog_select_account_title">Synchroniser</string>
-    <string name="preferences_dialog_select_account_tips">Sélectionnez un compte google. Les notes créées localement seront synchronisées avec google task.</string>
+    <string name="preferences_dialog_select_account_tips">Sélectionnez un compte Google. Les notes créées localement seront synchronisées avec Google Tasks.</string>
     <string name="preferences_toast_cannot_change_account">Le compte ne peut pas être changé tant qu\'une synchronisation est en cours</string>
     <string name="preferences_toast_success_set_accout">%1$s a été défini comme compte de synchronisation</string>
     <string name="preferences_bg_random_appear_title">Couleur de fond aléatoire</string>

@@ -22,7 +22,7 @@
     <string name="notification_download_failed">Échec du téléchargement</string>
     <string name="notification_need_wifi_for_size">La taille du téléchargement nécessite une connexion Wi-Fi</string>
     <string name="wifi_required_title">Téléchargement trop grand pour l\'opérateur de réseau</string>
-    <string name="wifi_required_body">Vous devez utiliser le WiFi pour terminer ce %s téléchargement. \n\n Cliquez %s pour commencer le téléchargement la prochaine fois que vous êtes connecté à un réseau Wi-Fi.</string>
+    <string name="wifi_required_body">Vous devez utiliser le Wi-Fi pour terminer ce %s téléchargement. \n\n Cliquez %s pour commencer le téléchargement la prochaine fois que vous êtes connecté à un réseau Wi-Fi.</string>
     <string name="wifi_recommended_title">File d\'attente pour télécharger plus tard?</string>
     <string name="wifi_recommended_body">Commencer à télécharger %s maintenant peut vider la batterie et/ou entraîner une utilisation excessive de votre connexion 3G, ce qui peut mener à des frais par votre opérateur de téléphonie mobile en fonction de votre forfait.\n\n Cliquer %s ci-dessous pour commencer ce téléchargement la prochaine fois que vous serez connecté à un réseau Wi-Fi.</string>
     <string name="button_queue_for_wifi">File d\'attente</string>

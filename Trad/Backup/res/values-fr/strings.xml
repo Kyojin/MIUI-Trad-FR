@@ -108,6 +108,7 @@
     <string name="sc_service_unavailable">Le service n\'est pas disponible</string>
     <string name="sc_unauthorized">Le certificat n\'est pas valide</string>
     <string name="sc_request_timeout">La requête a expiré</string>
+    <string name="sc_precondition_failed">Votre compte Xiaomi n\'est lié à aucune adresse e-mail</string>
     <string name="sc_internal_server_error">Erreur interne du serveur</string>
     <string name="sc_others">Exception du programme</string>
     <string name="task_backup_succeed">Sauvegarde réussie</string>
@@ -123,9 +124,9 @@
     <string name="restore_contact_content">Restaurer ces contacts peut créer des doublons. Continuer ?\n Note: Vous pouvez fusionner les contacts en double dans les paramètres de liste de contacts</string>
     <string name="progress_restore_hint">Restauration de vos données</string>
     <string name="cancel_restore">Annuler</string>
-    <string name="local_backup_hint">Sauvegarde des contacts, SMS, et des paramètres et données du système</string>
     <string name="local_select_sysdata">Données du système</string>
     <string name="local_select_userapp">Données des applications</string>
+    <string name="local_no_backup">Pas de sauvegarde(s) locale(s)</string>
     <string name="auto_backup_setting_title">Sauvegarde automatique</string>
     <string name="auto_backup_open">Activer la sauvegarde automatique</string>
     <string name="auto_backup_only_wifi">Uniquement en Wi-Fi</string>
@@ -155,4 +156,9 @@
     <string name="cloud_item_info_summary">(Local %1$s | En ligne %2$s)</string>
     <string name="total_num">%d enregistrement(s) au total</string>
     <string name="cloud_restore_guide">Cliquez sur Commencer la restauration pour restaurer les données\n Vous pouvez aussi restaurer %s dans Sauvegarde</string>
+    <string name="import_from_xiaomi_account_hint1">1. Installer MiTalk et se connecter.\n http://www.miliao.com\n\n3. Entrer dans les paramètres de MiTalk et choisir ”Sauvegarder contacts sur le compte Xiaomi”</string>
+    <string name="import_from_xiaomi_account_hint2">Note: Aller vers l\'étape suivante si la sauvegarde existe déjà</string>
+    <string name="import_from_xiaomi_account_hint_title">Utiliser MiTalk pour sauvegarder les contacts sur d\'autres appareils, pas le MI-ONE</string>
+    <string name="guarded_mode_dialog_title">Mode visiteur</string>
+    <string name="guarded_mode_dialog_message">Impossible de sauvegarder/restaurer en mode visiteur</string>
 </resources>

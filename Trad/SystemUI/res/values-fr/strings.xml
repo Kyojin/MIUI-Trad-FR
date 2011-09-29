@@ -7,7 +7,7 @@
     <string name="status_bar_latest_events_title">Notifications</string>
     <string name="battery_low_title">Branchez le chargeur</string>
     <string name="battery_low_subtitle">Le niveau de la batterie est faible :</string>
-    <string name="battery_low_percent_format">Maximum %d %% restants.</string>
+    <string name="battery_low_percent_format">Seulement %d %% restants.</string>
     <string name="battery_low_why">Utilisation de la batterie</string>
     <string name="usb_accessory_permission_prompt">Voulez-vous autoriser l\'application %1$s à accéder à l\'accessoire USB ?</string>
     <string name="usb_device_confirm_prompt">Voulez-vous ouvrir %1$s quand ce périphérique USB est connecté ?</string>

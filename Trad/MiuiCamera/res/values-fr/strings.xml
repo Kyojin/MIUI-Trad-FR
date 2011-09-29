@@ -15,6 +15,7 @@
     <string name="video_file_name_format">\'VID\'_dd-MM-yyyy_HHmmss</string>
     <string name="video_reach_size_limit">Limite de taille atteinte.</string>
     <string name="burst_reach_count_limit">Limite critique de taille atteinte.</string>
+    <string name="anti_shake_time_expired">Temps expiré, prenez la photo immédiatement.</string>
     <string name="details_ok">OK</string>
     <string name="switch_to_camera_lable">Appareil Photo</string>
     <string name="switch_to_video_lable">Vidéo</string>
@@ -123,7 +124,7 @@
     <string name="pref_camera_iso_1600">ISO 1600</string>
     <string name="pref_camera_autoexposure">Mode de mesure</string>
     <string name="pref_camera_autoexposure_average">Moyenne de l\'image</string>
-    <string name="pref_camera_autoexposure_center">Centre pondérée</string>
+    <string name="pref_camera_autoexposure_center">Centre pondéré</string>
     <string name="pref_camera_autoexposure_spot">Mesure spot</string>
     <string name="video_settings">Paramètres vidéo</string>
     <string name="pref_video_quality">Qualité vidéo</string>

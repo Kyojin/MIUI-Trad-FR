@@ -58,15 +58,15 @@
     <string name="preferences_general_title">Paramètres généraux</string>
     <string name="pref_keep_in_memory_title">Garder en mémoire</string>
     <string name="pref_keep_in_memory_summary">Force le démarrage en mémoire</string>
-    <string name="pref_render_in_truecolor_title">Graphiques améliorés</string>
-    <string name="pref_render_in_truecolor_summary">Désactivez cette option, dans certains, augmente la fluidité</string>
+    <string name="pref_render_in_truecolor_title">Graphismes améliorés</string>
+    <string name="pref_render_in_truecolor_summary">Peut augmenter la fluidité si désactivé</string>
     <string name="pref_enable_drawing_cache_title">Cache graphique</string>
     <string name="pref_enable_drawing_cache_summary">Désactivez cette option permettra de libérer plus de mémoire</string>
     <string name="pref_icon_shadow_title">Ombrage des icônes</string>
     <string name="pref_icon_shadow_summary">Activer/Désactiver l\'ombrage des icônes sur le bureau</string>
     <string name="pref_screen_transformation_type_title">Effets de transition de sélection d\'écran</string>
     <string name="transformation_type_classic">Classique</string>
-    <string name="transformation_type_classic_no_overshoot">Classique (pas de rebond)</string>
+    <string name="transformation_type_classic_no_overshoot">Classique (sans rebond)</string>
     <string name="transformation_type_crossfade">Fondu</string>
     <string name="transformation_type_falldown">Rotation</string>
     <string name="transformation_type_cube">Cube</string>
@@ -76,8 +76,6 @@
     <string name="widget_gadget_player">Widget Musique</string>
     <string name="buffering">Chargement…</string>
     <string name="emptyplaylist">La playlist est vide</string>
-    <string name="sdcard_missing_title">Carte SD absente</string>
-    <string name="sdcard_busy_title">Carte SD occupée</string>
     <string name="unknown_artist_name">Artiste Inconnu</string>
     <string name="global_search_hint">Cliquer sur Rechercher</string>
     <string name="widget_global_search">Recherche</string>
@@ -93,4 +91,6 @@
     <string name="durationformatshort">%2$2d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+    <string name="sdcard_busy_title">Carte SD indisponible ou occupée</string>
+    <string name="sdcard_missing_title">Carte SD absente</string>
 </resources>

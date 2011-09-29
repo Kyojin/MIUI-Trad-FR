@@ -88,6 +88,8 @@
     <string name="recentCalls_empty">Le journal d\'appels est plein.</string>
     <string name="clearCallLogConfirmation_title">Effacer le journal d\'appels</string>
     <string name="clearCallLogConfirmation">Voulez-vous vraiment effacer le journal d\'appels ?</string>
+    <string name="clearOneCallLogConfirmation">Êtes-vous sûr de supprimer le journal d\'appel?</string>
+    <string name="clearGroupCallLogConfirmation">Êtes-vous sûr de supprimer ce groupe du journal d\'appel?</string>
     <string name="imei">Code IMEI</string>
     <string name="meid">MEID</string>
     <string name="voicemail">Messagerie vocale</string>
@@ -255,6 +257,7 @@
     <string name="search_results_searching">Recherche en cours...</string>
     <string name="menu_display_all">Afficher tous les contacts</string>
     <string name="menu_display_only_phones">Afficher uniquement les contacts avec un numéro de téléphone</string>
+    <string name="menu_sim_contact">Contacts SIM</string>
     <string name="openDialKeyboard">Clavier</string>
     <string name="openDialer">Téléphone</string>
     <string name="nameContactsCount">Rechercher %d Contacts</string>
@@ -312,6 +315,7 @@
     <string name="callrecordview_menu_show_called">Afficher uniquement les appels émis</string>
     <string name="callrecordview_menu_show_accepted">Afficher uniquement les appels reçus</string>
     <string name="callrecordview_menu_show_stranger">Afficher uniquement les appels inconnus</string>
+    <string name="callrecordview_menu_delete_one">Supprimer du journal d\'appel</string>
     <string name="callrecordview_menu_delete_one">Supprimer</string>
     <string name="callrecordview_menu_delete_all">Supprimer l\'historique</string>
     <string name="callrecordview_menu_delete_missed">Effacer les appels manqués</string>
@@ -342,15 +346,10 @@
     <string name="noContactHelpTextAddStarred">Favoris</string>
     <string name="noContactHelpTextAddMember">Ajouter des membres au groupe</string>
     <string name="importFromXiaomiAccountLabel">Restaurer une sauvegarde</string>
-    <string name="importFromXiaomiAccountStep1">Utiliser MiTalk pour sauvegarder les contacts sur d\'autres appareils, pas le MI-ONE</string>
-    <string name="importFromXiaomiAccountStep1Text">1. Démarrer un téléphone avec les contacts\n\n2. Installer MiTalk et se connecter.\n http://www.miliao.com\n\n3. Aller dans les paramètres MiTalk et choisir ”Sauvegarder les contacts sur le compte Xiaomi”</string>
-    <string name="importFromXiaomiAccountStep1Text2">2. Aller à l\'étape suivante si la sauvegarde existe déjà</string>
     <string name="noContactHelpTextAccounts">Configurer un compte de synchronisation</string>
     <string name="noContactHelpTextAccountsInfo">Synchroniser les contacts Google et Exchange.</string>
     <string name="noContactHelpTextImportXiaomiAccount">Restaurer d\'une sauvegarde en-ligne</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurer des données sauvegardées dans le compte Xiaomi et MiTalk</string>
-    <string name="btn_next">Suivant</string>
-    <string name="btn_back">Précédent</string>
     <string name="guide_popup_window_text">Vous pouvez importer des contacts par lot dans [Paramètres]>[Importer].</string>
     <string name="simCard">Carte SIM</string>
     <string name="export_to_sim">Exporter vers la carte SIM</string>
@@ -423,6 +422,7 @@
     <string name="birthday_remind">Rappel d\'anniversaire</string>
     <string name="birthday_remind_notify">Aujourd\'hui %s fête son %s, n\'oubliez pas de lui souhaiter ou offrir un cadeau !</string>
     <string name="birthday_remind_3days_notify">Dans 3 jours %s fête son %s, n\'oubliez pas de le lui souhaiter et offrir un cadeau !</string>
+    <string name="dialer_empty_text_loading">Chargement...</string>
     <string name="dialer_empty_text_no_call_log">Aucun journal d\'appel</string>
     <string name="dialer_empty_text_no_search_result">Aucun contact trouvé</string>
     <string name="menu_remove_duplicate">Supprimer les doublons</string>
