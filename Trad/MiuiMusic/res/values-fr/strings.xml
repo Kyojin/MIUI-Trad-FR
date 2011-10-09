@@ -34,7 +34,7 @@
     <string name="unknown_artist_name">Artiste Inconnu</string>
     <string name="unknown_album_name">Album Inconnu</string>
     <string name="ringtone_menu">Sonneries</string>
-    <string name="ringtone_menu_short">Utiliser comme sonnerie</string>
+    <string name="ringtone_menu_short">Déf. en sonnerie</string>
     <string name="ringtone_set">Ajouter %s aux sonneries.</string>
     <string name="play_selection">Lire la sélection</string>
     <string name="add_to_playlist">Ajouter à la Playlist</string>
@@ -97,6 +97,7 @@
     <string name="android_album_settings">Pochette d\'album</string>
     <string name="listen_to_music_online_settings">Musique en ligne</string>
     <string name="flow_save_hint">Conseil réseau 3G</string>
+    <string name="flow_save_confirm">OK</string>
     <string name="others">Autre(s)</string>
     <string name="play_and_download">Écouter et télécharger</string>
     <string name="screen_bright_wake">Luminosité de l\'écran</string>
@@ -167,8 +168,8 @@
     <string name="folder_renamed_message">Dossier renommé</string>
     <string name="filter_by_folder">Filtrer par dossier</string>
     <string name="select_folder">Sélectionnez le dossier que vous souhaitez afficher</string>
-    <string name="filter_min">0K</string>
-    <string name="filter_max">2048K</string>
+    <string name="filter_min">0Ko</string>
+    <string name="filter_max">2Mo</string>
     <string name="sync_now">Synchronisation...</string>
     <string name="miui_folder">Téléchargements MIUI</string>
     <string name="filter_notification">Ce fichier a été filtré, si vous voulez le jouer, aller dans les Paramètres et régler le!</string>

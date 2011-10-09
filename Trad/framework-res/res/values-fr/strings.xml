@@ -946,7 +946,7 @@ pour le compte %s"</string>
     <string name="global_action_privacy_mode_off_status">Mode visiteur désactivé</string>
     <string name="status_bar_toggle_divider">Les raccourcis placés par-dessus ce séparateur seront actifs</string>
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
-    <string name="status_bar_toggle_data">Données</string>
+    <string name="status_bar_toggle_data">2G/3G</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_rotate">Rotation</string>
     <string name="status_bar_toggle_brightness">Lumin.</string>
@@ -956,6 +956,8 @@ pour le compte %s"</string>
     <string name="status_bar_toggle_vibrate">Vibreur</string>
     <string name="status_bar_toggle_flight_mode">Mode avion</string>
     <string name="status_bar_toggle_lock">Verr.</string>
+    <string name="status_bar_toggle_ac">Ctrl accès</string>
+    <string name="status_bar_toggle_network_type">Type réseau</string>
     <string name="status_bar_toggle_torch">Torche</string>
     <string name="status_bar_toggle_reboot">Redémarrer</string>
     <string name="status_bar_toggle_shutdown">Éteindre</string>
@@ -1307,12 +1309,12 @@ pour le compte %s"</string>
     <string name="resource_notification_default">Notifications</string>
     <string name="resource_alarm_default">Alarme</string>
     <string name="description_unknown">Inconnu</string>
-    <string name="description_missed">Aucune</string>
-    <string name="description_designer">Concepteur:</string>
+    <string name="description_missed">N/A</string>
+    <string name="description_designer">Designer:</string>
     <string name="description_author">Auteur:</string>
     <string name="description_size">Taille:</string>
     <string name="description_modifiedtime">Modifié:</string>
-    <string name="description_download">Téléchargement:</string>
+    <string name="description_download">Téléch.:</string>
     <string name="description_version">Version:</string>
     <string name="description_file">Fichier:</string>
     <string name="resource_local">%1$s local</string>
@@ -1339,4 +1341,6 @@ pour le compte %s"</string>
     <string name="keyguard_incorrect_pin_with_retry_count">Vous avez droit à %d essais</string>
     <string name="lockscreen_unlock_sim_via_puk">"Déverrouiller la carte SIM à l'aide du code PUK"</string>
     <string name="unable_sync_ntp_withou_connection">Impossible de synchroniser la date maintenant car pas de réseau, cela se fera lors de la disponibilité du réseau</string>
+    <string name="choose_default_input_method">Choisir méthode de saisie par défaut</string>
+    <string name="change_default_input_method">Rester appuyé sur champ de saisie pour changer à tout moment</string>
 </resources>

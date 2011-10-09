@@ -16,6 +16,7 @@
     <string name="video_reach_size_limit">Limite de taille atteinte.</string>
     <string name="burst_reach_count_limit">Limite critique de taille atteinte.</string>
     <string name="anti_shake_time_expired">Temps expiré, prenez la photo immédiatement.</string>
+    <string name="removed">Supprimé</string>
     <string name="details_ok">OK</string>
     <string name="switch_to_camera_lable">Appareil Photo</string>
     <string name="switch_to_video_lable">Vidéo</string>
@@ -128,10 +129,11 @@
     <string name="pref_camera_autoexposure_spot">Mesure spot</string>
     <string name="video_settings">Paramètres vidéo</string>
     <string name="pref_video_quality">Qualité vidéo</string>
-    <string name="pref_video_quality_720p">720P (30m)</string>
+    <string name="pref_video_quality_hd">HD%s (30m)</string>
     <string name="pref_video_quality_high">Élevée (30 mn)</string>
     <string name="pref_video_quality_low">Faible (30 mn)</string>
     <string name="pref_video_quality_mms">MMS (faible, 30 s)</string>
     <string name="pref_video_continuous_focus">Focus continu</string>
     <string name="tag_coloreffect">COLOR_EFFECT_INDEX</string>
+	<string name="pref_video_quality_720p">720p (30m)</string>
 </resources>

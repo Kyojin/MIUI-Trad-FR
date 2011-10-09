@@ -19,4 +19,7 @@
         <item quantity="other">%d morceaux ont été ajoutés à la liste des favoris.</item>
         <item quantity="one">1 morceau ajouté à la liste des favoris.</item>
     </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">Un total de %1$d morceaux, dont %2$d premiers</item>
+    </plurals>
 </resources>

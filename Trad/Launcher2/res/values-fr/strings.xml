@@ -46,7 +46,7 @@
     <string name="failed_to_delete_temporary">Suppression échouée, veuillez réessayer</string>
     <string name="widget_favorite_contacts_label">Contacts favoris</string>
     <string name="widget_favorite_contacts_edit">Éditer</string>
-    <string name="widget_favorite_contacts_style">Changer la taille</string>
+    <string name="widget_favorite_contacts_style">Taille</string>
     <string name="edit_folder_title">Modification nom dossier</string>
     <string name="confirm_btn_label">OK</string>
     <string name="cancel_btn_label">Annuler</string>
@@ -91,6 +91,4 @@
     <string name="durationformatshort">%2$2d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
-    <string name="sdcard_busy_title">Carte SD indisponible ou occupée</string>
-    <string name="sdcard_missing_title">Carte SD absente</string>
 </resources>

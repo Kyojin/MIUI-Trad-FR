@@ -22,6 +22,7 @@
         <item>Paramètres alarme</item>
         <item>Notes</item>
         <item>Paramètres Anti-spam</item>
+        <item>Thème actuel</item>
     </string-array>
     <string-array name="app_type_desc">
         <item>(Données)</item>

@@ -176,6 +176,8 @@
     <string name="proxy_settings_summary">Activer le proxy, configurer l\'adresse du serveur proxy et le numéro de port</string>
     <string name="proxy_quick_toggle_title">Utiliser un proxy</string>
     <string name="proxy_wifi_only_title">Wi-Fi uniquement</string>
+    <string name="proxy_enable_ap_setting">Utiliser param. spécifiques pour ce réseau</string>
+    <string name="wifi_clear_proxy">Effacer param. proxy du Wi-Fi</string>
     <string name="cancel">Annuler</string>
     <string name="settings_label">Paramètres</string>
     <string name="settings_shortcut">Paramètres</string>
@@ -341,6 +343,7 @@
     <string name="wifi_eap_anonymous">Anonyme</string>
     <string name="wifi_wapi_psk_type">Type de mot de passe</string>
     <string name="wifi_password">Mot de passe</string>
+    <string name="wifi_password_incorrect">Mot de passe incorrect, réessayez</string>
     <string name="wifi_show_password">Afficher le mot de passe</string>
     <string name="wifi_wapi_as_certificate">Certificat AS</string>
     <string name="wifi_wapi_user_certificate">Certificat utilisateur</string>
@@ -352,7 +355,8 @@
     <string name="wifi_secured">Sécurisé par %1$s</string>
     <string name="wifi_secured_with_status">%2$s, sécurisé par %1$s</string>
     <string name="wifi_connect">Se connecter</string>
-    <string name="wifi_forget">Retirer</string>
+    <string name="wifi_setting">Options</string>
+    <string name="wifi_forget">Oublier</string>
     <string name="wifi_save">Enregistrer</string>
     <string name="wifi_cancel">Annuler</string>
     <string name="wifi_advanced_titlebar">Options avancées</string>
@@ -389,8 +393,8 @@
     <string name="getConnectionInfo">getConnectionInfo</string>
     <string name="wifi_api_test">Wi-Fi API</string>
     <string name="wifi_status_test">État Wi-Fi</string>
-    <string name="wifi_update">Actualiser Statistiques</string>
-    <string name="wifi_state_label">Wi-Fi State :</string>
+    <string name="wifi_update">Actualiser statistiques</string>
+    <string name="wifi_state_label">État Wi-Fi :</string>
     <string name="network_state_label">État du réseau :</string>
     <string name="supplicant_state_label">État du Supplicant :</string>
     <string name="rssi_label">RSSI :</string>
@@ -643,9 +647,9 @@
     <string name="manage_space_text">Gérer l\'espace</string>
     <string name="filter">Filtrer</string>
     <string name="filter_apps_all">Toutes</string>
-    <string name="filter_apps_third_party">Téléchargées</string>
-    <string name="filter_apps_running">En cours d\'exécution</string>
-    <string name="filter_apps_onsdcard">Sur la carte SD</string>
+    <string name="filter_apps_third_party">Téléch.</string>
+    <string name="filter_apps_running">En cours</string>
+    <string name="filter_apps_onsdcard">Sur SD</string>
     <string name="disabled">Désactivé</string>
     <string name="no_applications">Aucune application.</string>
     <string name="internal_storage">Stockage interne</string>
@@ -1047,6 +1051,8 @@
     <string name="status_bar_toggle_style_single_page">Page</string>
     <string name="status_bar_toggle_settings">Personnaliser</string>
     <string name="status_bar_toggle_arrangement">Barre de notification personnalisée</string>
+    <string name="status_bar_toggle_divider_page">%1$d contrôles sont actifs</string>
+    <string name="status_bar_toggle_divider_list">Les ctrl au dessus de la barre sont actifs</string>
     <string name="menu_reset_toggle_settings">Par défaut</string>
     <string name="status_bar_toggle_waiting">En attente...</string>
     <string name="network_category">Réseau</string>
@@ -1083,11 +1089,11 @@
     <string name="media_button">Button média</string>
     <string name="preferred_media_app_summary">Application gérée par les touches de l\'écran de veille et la télécommande</string>
     <string name="no_media_button_receiver">Aucune touche</string>
-    <string name="camera_key_action_title">Touche centrale</string>
-    <string name="camera_key_action_setting_title">Appui sur la touche centrale</string>
+    <string name="camera_key_action_title">Touche caméra</string>
+    <string name="camera_key_action_setting_title">Appui sur la touche caméra</string>
     <string name="camera_key_action_category_title">Action de la touche quand l\'appli Appareil Photo est en marche</string>
     <string name="camera_key_action_none_title">Ne rien faire</string>
-    <string name="camera_key_action_home_title">Retourner au bureau</string>
+    <string name="camera_key_action_shortcut_title">Raccourci</string>
     <string name="camera_key_action_toggle_title">Basculer</string>
     <string name="camera_key_action_app_title">Ouvrir une application</string>
     <string name="camera_key_action_shortcut_home">Retour à l\'accueil</string>
@@ -1095,8 +1101,10 @@
     <string name="camera_key_action_shortcut_search">Recherche</string>
     <string name="camera_key_action_shortcut_call">Appeler</string>
     <string name="camera_key_action_shortcut_wake">Verrouiller/Allumer l\'appareil</string>
+    <string name="multi_touch_points_category_title">Points multi-touch</string>
+    <string name="multi_touch_points_preference">Redémarrer pour activer</string>
     <string name="trackball_wake_title">Réveil par Trackball</string>
-    <string name="device_cpu2_info">dual core</string>
+    <string name="device_cpu2_info">Double Coeur</string>
     <string name="install_development_settings_title">Installation et débogage</string>
     <string name="manage_applications_title">Gestionnaire d\'applications</string>
     <string name="development_debug_category">Développement et débogage</string>
@@ -1386,8 +1394,8 @@
     <string name="cit_charger_current">Niveau de charge:%dmA</string>
     <string name="cit_charger_current_error">Impossible d\'obtenir la valeur du courant de charge</string>
     <string name="miui_copyright_title">Directives pour la protection du droit d\'auteur</string>
-    <string name="miui_license_title">Conditions d\'utilisation MIUI</string>
-    <string name="miui_market_license_title">Disclaimer AppMarket MIUI</string>
+    <string name="miui_user_agreement_title">Accord de l\'utilisateur</string>
+    <string name="miui_privacy_policy_title">Politique de confidentialité</string>
     <string name="sound_settings">Paramètres sonores</string>
     <string name="silent_mode_title">Mode silencieux</string>
     <string name="silent_mode_summary">Aucun son, sauf pour le multimédia et le réveil</string>
@@ -1415,6 +1423,8 @@
     <string name="ringtone_category">Sonneries</string>
     <string name="incoming_call_ringtone_settings_title">Sonneries</string>
     <string name="notification_ringtone_settings_title">Sonnerie de notification</string>
+    <string name="sms_received_sound_settings_title">Son de notification SMS</string>
+    <string name="sms_delivered_sound_settings_title">Son envoi réussi de SMS</string>
     <string name="dtmf_tone_enable_title">Tonalité touches audible</string>
     <string name="dtmf_tone_enable_summary_on">Activer la tonalité des touches du clavier</string>
     <string name="dtmf_tone_enable_summary_off">Activer la tonalité des touches du clavier</string>

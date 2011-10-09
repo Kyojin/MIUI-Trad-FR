@@ -38,8 +38,8 @@
         <item>ONLY_NO_MUSIC</item>
     </string-array>
     <string-array name="pref_reading_mode_choices">
-        <item>Entrer automatiquement</item>
-        <item>Entrer manuellement</item>
+        <item>Automatique</item>
+        <item>Manuel</item>
         <item>Désactivé</item>
     </string-array>
     <string-array name="pref_reading_mode_values">
