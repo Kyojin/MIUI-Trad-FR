@@ -6,7 +6,7 @@
     <string name="search_hint">Recherche par mot clé</string>
     <string name="change_search_setting">Modifier les paramètres de recherche</string>
     <string name="search_web">Rechercher</string>
-    <string name="search_recent_hint">Recherche récentes</string>
+    <string name="search_recent_hint">Recherches récentes</string>
     <string name="search_no_result_hint">Ne trouve pas votre requête\"%s\"</string>
     <string name="search_no_result_hint_suggistion">Recommandé：</string>
     <string name="search_no_result_hint_line1">Vérifiez que les mots sont correctement orthographiés</string>

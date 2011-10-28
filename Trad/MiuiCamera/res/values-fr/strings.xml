@@ -24,6 +24,8 @@
     <string name="review_cancel">Annuler</string>
     <string name="review_ok">OK</string>
     <string name="review_retake">Autre photo</string>
+    <string name="restore_title">Remise à zéro</string>
+    <string name="confirm_restore_message">Les paramètres seront rétablis à ceux par défaut.</string>
     <string name="send_method">Envoyer à</string>
     <string name="switch_to_camera">Appareil Photo</string>
     <string name="switch_to_video">Vidéo</string>
@@ -135,5 +137,4 @@
     <string name="pref_video_quality_mms">MMS (faible, 30 s)</string>
     <string name="pref_video_continuous_focus">Focus continu</string>
     <string name="tag_coloreffect">COLOR_EFFECT_INDEX</string>
-	<string name="pref_video_quality_720p">720p (30m)</string>
 </resources>

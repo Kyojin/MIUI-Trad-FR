@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="cancel">Annuler</string>
     <string name="copy">Copier</string>
@@ -22,6 +22,10 @@
     <string name="yes">OK</string>
     <string name="dialog_alert_title">Attention</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Désolé, cette vidéo ne peut être lue sur cet appareil.</string>
+    <string name="sd_not_available">Carte SD non-montée ou indisponible</string>
+    <string name="sd_not_available_low_internal_storage">Carte SD non-montée ou indisponible, le stockage interne est faible</string>
+    <string name="sd_not_available_saved_to_internal_storage">Sauvegardé sur le stockage interne</string>
+    <string name="sd_not_available_use_internal_storage">Carte SD indisponible, utilisation de la mémoire interne</string>
     <string name="config_statusBarComponent">com.android.systemui/com.android.systemui.statusbar.StatusBarService</string>
     <string name="config_tether_apndata" />
     <item type="string" name="default_wallpaper_component">@null</item>
@@ -581,6 +585,12 @@
     <string name="permdesc_cache_filesystem">"Permet à une application de lire et d'écrire dans le système de fichiers en cache."</string>
     <string name="permlab_use_sip">Passer/recevoir des appels Internet</string>
     <string name="permdesc_use_sip">Autorise une application à utiliser le service SIP pour passer/recevoir des appels Internet</string>
+    <string name="permlab_read_call_state">"Lire état d'appel"</string>
+    <string name="permdesc_read_call_state">"Autorise une application à lire l'état d'appel."</string>
+    <string name="permlab_record_calls">Enregistrer appels</string>
+    <string name="permdesc_record_calls">"Permet à une application d'enregistrer les appels."</string>
+    <string name="permlab_modify_audio_settings_during_call">Contrôler les paramètres audio en appel</string>
+    <string name="permdesc_modify_audio_settings_during_call">Permet à une application de contrôler les paramètres audio durant un appel.</string>
     <string name="policylab_limitPassword">Limiter le mot de passe</string>
     <string name="policydesc_limitPassword">Restreint les types de mots de passe que vous êtes autorisé à utiliser.</string>
     <string name="policylab_watchLogin">Surveiller les tentatives de connexion</string>
@@ -787,7 +797,7 @@ Sélectionnez OK pour continuer ou Annuler pour rester sur la page actuelle."</s
     <string name="launch_warning_title">Application redirigée</string>
     <string name="launch_warning_replace">"%1$s est maintenant en cours d'utilisation."</string>
     <string name="launch_warning_original">%1$s a été démarrée.</string>
-    <string name="package_behavior_confirmation" formatted="false">"L'application %1$s demande la permission : %2$s. Cette action est riquée. Si vous faite confiance à l'application, veuillez choisir %3$s. Sinon, veuillez choisir %4$s.
+    <string name="package_behavior_confirmation" formatted="false">"L'application %1$s demande la permission : %2$s. Cette action est riquée. Si vous faite confiance à l'application, veuillez choisir %3$s. Sinon, veuillez choisir %4$s
 
 Note: Certaines applications peuvent crasher si une permission leur est refusé.
 
@@ -796,6 +806,15 @@ Cette boite de dialogue se fermera dans %5$s secondes et la permission sera refu
     <string name="literal_or_with_leading_trailing_space">ou</string>
     <string name="literal_unknown">Inconnu</string>
     <string name="remember_choice">Ne plus me demander</string>
+    <string name="safetylegal_activity_unreachable">"Votre téléphone n'est pas connecté à un service de données. Pour voir cette information maintenant, allez à %s depuis n'importe quel ordinateur connecté à Internet."</string>
+    <string name="miui_copyright_title">Copyright</string>
+    <string name="miui_user_agreement_title">"Accord de l'utilisateur"</string>
+    <string name="miui_privacy_policy_title">Politique de confidentialité</string>
+    <string name="user_agreement1">Vous allez utiliser le système et les services en ligne proposés par Xiaomi, veuillez lire</string>
+    <string name="user_agreement2">\u0020Accord de l\'utilisateur</string>
+    <string name="user_agreement3">\u0020et\u0020</string>
+    <string name="user_agreement4">Politique de confidentialité</string>
+    <string name="user_agreement5">"，cliquer sur OK montre que vous êtes d'acord et que vous allez vous conformer au contenu ci-dessus. Cliquez sur Annuler pour quitter."</string>
     <string name="smv_application" formatted="false">"L'application %1$s (du processus %2$s) a transgressé sa propre déclaration de mode Strict."</string>
     <string name="smv_process">Le processus %1$s a transgressé sa propre déclaration de \"StrictMode\".</string>
     <string name="heavy_weight_notification">"%1$s est en cours d'utilisation"</string>
@@ -933,10 +952,6 @@ pour le compte %s"</string>
     <string name="media_removed">La carte SD a été retirée</string>
     <string name="media_shared">La carte SD est actuellement utilisé par un ordinateur</string>
     <string name="media_unknown_state">Média externe en état inconnu.</string>
-    <string name="sd_not_available">Carte SD non accessible</string>
-    <string name="sd_not_available_use_internal_storage">Carte SD non disponible, utilisation de la mémoire interne</string>
-    <string name="sd_not_available_low_internal_storage">Mémoire interne disponible faible</string>
-    <string name="sd_not_available_saved_to_internal_storage">Le fichier a été stocké dans un dossier</string>
     <string name="reboot_confirm">Votre téléphone va redémarrer.</string>
     <string name="reboot_progress">Redémarrage ...</string>
     <string name="global_action_toggle_privacy_mode">Mode visiteur</string>
@@ -1343,4 +1358,8 @@ pour le compte %s"</string>
     <string name="unable_sync_ntp_withou_connection">Impossible de synchroniser la date maintenant car pas de réseau, cela se fera lors de la disponibilité du réseau</string>
     <string name="choose_default_input_method">Choisir méthode de saisie par défaut</string>
     <string name="change_default_input_method">Rester appuyé sur champ de saisie pour changer à tout moment</string>
+    <string name="managed_roaming_dialog_cancel_button">Non</string>
+    <string name="managed_roaming_dialog_content">Réseau à Service Limité trouvé. Voulez-vous commencer une recherche de réseau ?</string>
+    <string name="managed_roaming_dialog_ok_button">Oui</string>
+    <string name="managed_roaming_title">"Gestion d'itinérance"</string>
 </resources>

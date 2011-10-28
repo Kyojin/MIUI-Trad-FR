@@ -20,6 +20,8 @@
     <string name="slideshow_interval_invalid">L\'intervalle de lecture est invalide, retour aux réglages par défaut</string>
     <string name="animation_set">Animation</string>
     <string name="slideshow_repeat_mode">Boucle</string>
+    <string name="clear_thumbnail_cache">Effacer cache miniatures</string>
+    <string name="clear_thumbnail_cache_confirm">Le cache des miniatures sera effacé. La Galerie re-scannera les médias et recréera les miniatures lors du prochain usage</string>
     <string name="global_setting">Paramètres</string>
     <string name="rescan_sdcard">Re-scan la carte SD</string>
     <string name="confirm_delete_folder">La sélection sera supprimée définitivement de la carte SD</string>
@@ -53,16 +55,12 @@
     <string name="delete">Supprimer</string>
     <string name="send">Envoyer</string>
     <string name="save">Valider</string>
-    <string name="cancel">Annuler</string>
-    <string name="ok">OK</string>
     <string name="info">Info</string>
     <string name="error">Erreur</string>
     <string name="warn">Avertissement</string>
     <string name="folder">Dossier</string>
     <string name="file">Fichier</string>
     <string name="enter_selection">Mode choix multiples</string>
-    <string name="send_single_video_hint_format">Envoyer la vidéo (Taille: %s)</string>
-    <string name="send_single_image_hint_format">Envoyer la photo (Taille: %s)</string>
     <string name="send_multiple_files_hint_format">Envoyer (Taille totale: %s)</string>
     <string name="already_select">Sélectionnés %s</string>
     <string name="how_many_videos">%d vidéo(s)</string>
@@ -87,9 +85,8 @@
     <string name="must_pick_file">Vous devez d\'abord sélectionner une image</string>
     <string name="play_video">Lire</string>
     <string name="set_lock_or_wallpaper">Définir comme fond d\'écran</string>
-    <string name="set_wallpaper">Du bureau</string>
-    <string name="set_lockscreen">De verrouillage</string>
-    <string name="set_contact_photo">Définir comme image de contact</string>
+    <string name="set_wallpaper">Bureau</string>
+    <string name="set_lockscreen">Verrouillage</string>
     <string name="apply_pic_for">Utiliser comme:</string>
     <string name="wallpaper">Fond d\'écran</string>
     <string name="screen_saver_wallpaper">Verrouillage</string>

@@ -575,7 +575,6 @@
     <string name="settings_license_activity_loading">Chargement...</string>
     <string name="settings_safetylegal_title">Informations de sécurité</string>
     <string name="settings_safetylegal_activity_title">Informations de sécurité</string>
-    <string name="settings_safetylegal_activity_unreachable">Votre téléphone n\'est connecté à aucun service de données. Pour consulter ces informations maintenant, accédez à %s depuis un ordinateur connecté à Internet.</string>
     <string name="settings_safetylegal_activity_loading">Chargement…</string>
     <string name="lockpassword_choose_your_password_header">Choisir votre mot de passe</string>
     <string name="lockpassword_choose_your_pin_header">Choisir votre code PIN</string>
@@ -1393,9 +1392,6 @@
     <string name="cit_display_continue">Cliquez sur l\'écran pour commencer les tests</string>
     <string name="cit_charger_current">Niveau de charge:%dmA</string>
     <string name="cit_charger_current_error">Impossible d\'obtenir la valeur du courant de charge</string>
-    <string name="miui_copyright_title">Directives pour la protection du droit d\'auteur</string>
-    <string name="miui_user_agreement_title">Accord de l\'utilisateur</string>
-    <string name="miui_privacy_policy_title">Politique de confidentialité</string>
     <string name="sound_settings">Paramètres sonores</string>
     <string name="silent_mode_title">Mode silencieux</string>
     <string name="silent_mode_summary">Aucun son, sauf pour le multimédia et le réveil</string>
@@ -1463,4 +1459,8 @@
     <string name="lpa_decode_summary">Affectera la consommation de la batterie, le spectre de musique et l\'equalizer; nécessite un redémarrage pour prendre effet</string>
     <string name="lpa_decode_on_hint">Activer le lecteur audio basse-consommation peut beacuoup réduire la consommation de batterie, mais il désactivera le spectre de musique et l\'equalizer. Cliquez sur OK pour redémarrer le téléphone et activer cette fonctionnalité.</string>
     <string name="lpa_decode_off_hint">Désactiver le lecteur audio basse-consommation activera le spectre de musique et l\'equalizer, mais augmentera la consommation de la batterie.</string>
+    <string name="pref_volume_category_title">Volume</string>
+    <string name="pref_volume_wake_title">Réveil touches volume</string>
+    <string name="pref_volume_wake_summary">Appuyer sur les touches de volume allume l\'appareil. Utile pour les appareils où le bouton de déverrouillage est difficile d\'accès</string>
+    <string name="settings_safetylegal_activity_unreachable">"Votre téléphone n'est pas connecté à un service de données. Pour voir cette information maintenant, allez %s depuis un ordinateur connecté à Internet."</string>
 </resources>

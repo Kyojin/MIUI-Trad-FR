@@ -404,24 +404,6 @@
         <item>Consommation données</item>
         <item>Consommation capteur</item>
     </string-array>
-    <string-array name="overscroll_mode_entries">
-        <item>Toujours flexible</item>
-        <item>Flexible si le contenu dépasse</item>
-        <item>Pas de flexibilité</item>
-    </string-array>
-    <string-array name="overscroll_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="menu_style_entries">
-        <item>Grille d\'origine</item>
-        <item>Nouvelle liste</item>
-    </string-array>
-    <string-array name="menu_style_values">
-        <item>0</item>
-        <item>3</item>
-    </string-array>
     <string-array name="led_color_values_for_milestone">
         <item>Green</item>
         <item>Red</item>
@@ -441,9 +423,9 @@
         <item>Orange</item>
     </string-array>
     <string-array name="led_color_values_for_mione">
-        <item>Blue</item>
-        <item>Red</item>
-        <item>Green</item>
+        <item>blue</item>
+        <item>red</item>
+        <item>green</item>
         <item>\#FFFF0033</item>
         <item>\#FF5500FF</item>
         <item>\#FFAA00AA</item>
@@ -577,5 +559,23 @@
         <item>70</item>
         <item>80</item>
         <item>90</item>
+    </string-array>
+    <string-array name="overscroll_mode_entries">
+        <item>Toujours flexible</item>
+        <item>Flexible si le contenu dépasse</item>
+        <item>Pas de flexibilité</item>
+    </string-array>
+    <string-array name="overscroll_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="menu_style_entries">
+        <item>Grille d\'origine</item>
+        <item>Nouvelle liste</item>
+    </string-array>
+    <string-array name="menu_style_values">
+        <item>0</item>
+        <item>3</item>
     </string-array>
 </resources>
